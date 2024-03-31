@@ -1,4 +1,4 @@
-# Pancake Contracts 🥞
+oo# Pancake Contracts 🥞
 
 This repo contains all the contracts used in PancakeSwap. It is divided in independent projects where each of them contains its smart contracts, test environment and unique config files.
 
@@ -23,5 +23,6 @@ This repo contains all the contracts used in PancakeSwap. It is divided in indep
 
 1 - Create a new folder inside `projects` <br/> lerna
 2 - Run `yarn init`
+package.json
 
 Commands inside the root `package.json` starting with `lerna` will run the corresponding command in each subproject.
