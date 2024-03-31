@@ -23,6 +23,8 @@ This repo contains all the contracts used in PancakeSwap. It is divided in indep
 
 1 - Create a new folder inside `projects` <br/> lerna
 2 - Run `yarn init`
-package.json
+Create a new project
+1 - Create a new folder inside projects
+lerna 2 - Run yarn init package.json
 
-Commands inside the root `package.json` starting with `lerna` will run the corresponding command in each subproject.
+Commands inside the root `package.json` starting with `lerna` will run the corresponding command in each sub
